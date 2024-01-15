@@ -1,0 +1,26 @@
+
+[
+    {
+    "id": 1,
+    "image": "../images/Recent_posts_1.webp",
+    "title": "Exploring the Rise of Indoor Jungle Gyms: Green Fitness Trends",
+    "text": "Emma Greenfield / August 15, 2023",
+    "description": "Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines."
+    },
+    {
+      "id": 2,
+      "title": "Plant Parenthood Goes Hi-Tech: Unveiling Botanical Companion Apps",
+      "text": "Alex Ramirez / August 25, 2023",
+      "description": "Get ahead in the world of plant care with the latest smartphone apps designed to be your botanical best friend. Learn about app-assisted watering schedules, virtual plant identification, and personalized care tips to keep your green companions thriving.",
+      "image": "../images/Recent_posts_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Gardening for Urban Dwellers: Vertical Gardens Take Center Stage",
+      "text": "Lily Chen / September 5, 2023",
+      "description": "Embrace sustainable living in urban spaces with the revolutionary concept of vertical gardens. This post delves into how vertical gardens maximize limited space, improve air quality, and contribute to the urban green movement while adding a touch of natural elegance to your surroundings.",
+      "image": "./images/Recent_posts_3.webp"
+    }
+  ]
+  
+  

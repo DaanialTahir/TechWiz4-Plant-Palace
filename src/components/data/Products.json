@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Phoenix palm",
+    "scientific_name": "Phoenix dactylifera",
+    "country_of_origin": "Middle East",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Moderate, allowing the soil to dry out slightly between waterings.",
+    "img": "../images/indoor1.png",
+    "price": "2.00"
+  },
+  {
+    "id": 2,
+    "title": "Elephanta",
+    "scientific_name": "Adansonia digitata",
+    "country_of_origin": "Africa",
+    "light_requirement": "Full sun",
+    "watering": "Low, drought-tolerant once established",
+    "img": "../images/indoor2.png",
+    "price": "2.99"
+  },
+  {
+    "id": 3,
+    "title": "Areca palm",
+    "scientific_name": "Dypsis lutescens",
+    "country_of_origin": "Madagascar",
+    "light_requirement": "Bright indirect light",
+    "watering": "Moderate, keeping the soil consistently moist",
+    "img": "../images/indoor3.png",
+    "price": "1.00"
+  },
+  {
+    "id": 4,
+    "title": "Codiaeum",
+    "scientific_name": "Codiaeum variegatum",
+    "country_of_origin": "Southeast Asia",
+    "light_requirement": "Bright, indirect light",
+    "watering": "Regular watering, allowing the top inch of soil to dry between waterings",
+    "img": "../images/indoor4.png",
+    "price": "1.99"
+  },
+  {
+    "id": 5,
+    "title": "Spider plant",
+    "scientific_name": "Chlorophytum comosum",
+    "country_of_origin": "Southern Africa",
+    "light_requirement": "Indirect light to partial shade",
+    "watering": "Moderate, letting the soil dry between waterings",
+    "img": "../images/indoor5.png",
+    "price": "3.00"
+  },
+  {
+    "id": 6,
+    "title": "Rhapis palm",
+    "scientific_name": "Rhapis excelsa",
+    "country_of_origin": "Southern China",
+    "light_requirement": "Indirect light to shade",
+    "watering": "Regular watering to keep the soil consistently moist",
+    "img": "../images/indoor6.png",
+    "price": "1.00"
+  },
+  {
+    "id": 7,
+    "title": "Schefflera plant",
+    "scientific_name": "Schefflera spp.",
+    "country_of_origin": "Australia, New Guinea",
+    "light_requirement": "Indirect light to partial sun",
+    "watering": "Moderate, allowing the top inch of soil to dry out before watering",
+    "img": "../images/indoor7.png",
+    "price": "2.00"
+  },
+  {
+    "id": 8,
+    "title": "English Ivy",
+    "scientific_name": "Hedera helix",
+    "country_of_origin": "Europe",
+    "light_requirement": "Part to full shade",
+    "watering": "Regular watering, keeping the soil evenly moist but not waterlogged",
+    "img": "../images/indoor8.png",
+    "price": "2.99"
+  },
+  {
+    "id": 9,
+    "title": "Ferns",
+    "scientific_name": "Various genera and species",
+    "country_of_origin": "Global (varies by species)",
+    "light_requirement": "Low to indirect light",
+    "watering": "Consistently moist soil, avoiding waterlogging",
+    "img": "../images/indoor9.png",
+    "price": "3.00"
+  }
+]

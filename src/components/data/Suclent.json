@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Aloe vera",
+    "scientific_name": "Aloe vera",
+    "country_of_origin": "Arabian Peninsula",
+    "light_requirement": "Bright indirect light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/succulent1.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 2,
+    "title": "Jade plant",
+    "scientific_name": "Crassula ovata",
+    "country_of_origin": "South Africa",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry out before watering.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/succulent2.png",
+    "price": "$2.99"
+  },
+  {
+    "id": 3,
+    "title": "Echeveria",
+    "scientific_name": "Echeveria spp.",
+    "country_of_origin": "Mexico, Central and South America",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry out between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/succulent3.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 4,
+    "title": "Zebra cactus",
+    "scientific_name": "Haworthiopsis attenuata",
+    "country_of_origin": "South Africa",
+    "light_requirement": "Indirect light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/succulent4.png",
+    "price": "$3.99"
+  },
+  {
+    "id": 5,
+    "title": "String of pearls",
+    "scientific_name": "Senecio rowleyanus",
+    "country_of_origin": "South Africa",
+    "light_requirement": "Bright indirect light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/succulent5.png",
+    "price": "$1.99"
+  },
+  {
+    "id": 6,
+    "title": "Burro's tail",
+    "scientific_name": "Sedum morganianum",
+    "country_of_origin": "Mexico",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/succulent6.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 7,
+    "title": "Crown of thorns",
+    "scientific_name": "Euphorbia milii",
+    "country_of_origin": "Madagascar",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/succulent7.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 8,
+    "title": "Panda plant",
+    "scientific_name": "Kalanchoe tomentosa",
+    "country_of_origin": "Madagascar",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/succulent8.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 9,
+    "title": "Lithops",
+    "scientific_name": "Lithops spp.",
+    "country_of_origin": "Southern Africa",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/succulent9.png",
+    "price": "$0.99"
+  },
+  {
+    "id": 10,
+    "title": "Sempervivum",
+    "scientific_name": "Sempervivum spp.",
+    "country_of_origin": "Europe, Asia, Africa",
+    "light_requirement": "Bright light",
+    "watering": "Allow soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/succulent10.png",
+    "price": "$2.00"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Phoenix palm",
+    "scientific_name": "Phoenix dactylifera",
+    "country_of_origin": "Middle East",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Moderate, allowing the soil to dry out slightly between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor1.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 2,
+    "title": "Elephanta",
+    "scientific_name": "Adansonia digitata",
+    "country_of_origin": "Africa",
+    "light_requirement": "Full sun",
+    "watering": "Low, drought-tolerant once established.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor2.png",
+    "price": "$2.99"
+  },
+  {
+    "id": 3,
+    "title": "Areca palm",
+    "scientific_name": "Dypsis lutescens",
+    "country_of_origin": "Madagascar",
+    "light_requirement": "Bright indirect light",
+    "watering": "Moderate, keeping the soil consistently moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor3.png",
+    "price": "$1.00"
+  },
+  {
+    "id": 4,
+    "title": "Codiaeum",
+    "scientific_name": "Codiaeum variegatum",
+    "country_of_origin": "Southeast Asia",
+    "light_requirement": "Bright, indirect light",
+    "watering": "Regular watering, allowing the top inch of soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor4.png",
+    "price": "$1.99"
+  },
+  {
+    "id": 5,
+    "title": "Spider plant",
+    "scientific_name": "Chlorophytum comosum",
+    "country_of_origin": "Southern Africa",
+    "light_requirement": "Indirect light to partial shade",
+    "watering": "Moderate, letting the soil dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor5.png",
+    "price": "$3.00"
+  },
+  {
+    "id": 6,
+    "title": "Rhapis palm",
+    "scientific_name": "Rhapis excelsa",
+    "country_of_origin": "Southern China",
+    "light_requirement": "Indirect light to shade",
+    "watering": "Regular watering to keep the soil consistently moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/indoor6.png",
+    "price": "$1.00"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "Roses",
+    "scientific_name": "Rosa spp.",
+    "country_of_origin": "Asia, Europe, North America",
+    "light_requirement": "Full sun",
+    "watering": "Regular watering, keeping the soil evenly moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor1.png",
+    "price": "$1.99"
+  },
+  {
+    "id": 2,
+    "title": "Lavender",
+    "scientific_name": "Lavandula spp.",
+    "country_of_origin": "Mediterranean region",
+    "light_requirement": "Full sun",
+    "watering": "Low to moderate watering, allowing the soil to dry between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor2.png",
+    "price": "$2.99"
+  },
+  {
+    "id": 3,
+    "title": "Tulips",
+    "scientific_name": "Tulipa spp.",
+    "country_of_origin": "Central Asia",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Moderate watering, keeping the soil evenly moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor3.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 4,
+    "title": "Sunflowers",
+    "scientific_name": "Helianthus annuus",
+    "country_of_origin": "North America",
+    "light_requirement": "Full sun",
+    "watering": "Regular watering, allowing the soil to dry slightly between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor4.png",
+    "price": "$1.99"
+  },
+  {
+    "id": 5,
+    "title": "Lilies",
+    "scientific_name": "Lilium spp.",
+    "country_of_origin": "Various regions",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Regular watering, keeping the soil consistently moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor5.png",
+    "price": "$4.00"
+  },
+  {
+    "id": 6,
+    "title": "Hydrangeas",
+    "scientific_name": "Hydrangea spp.",
+    "country_of_origin": "Asia, Americas",
+    "light_requirement": "Indirect light to partial sun",
+    "watering": "Regular watering, maintaining consistently moist soil.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor6.png",
+    "price": "$3.99"
+  },
+  {
+    "id": 7,
+    "title": "Geraniums",
+    "scientific_name": "Pelargonium spp.",
+    "country_of_origin": "South Africa",
+    "light_requirement": "Full sun",
+    "watering": "Moderate watering, allowing the soil to dry slightly between waterings.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor7.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 8,
+    "title": "Peonies",
+    "scientific_name": "Paeonia spp.",
+    "country_of_origin": "Asia, Europe, North America",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Regular watering, keeping the soil evenly moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+    "img": "../images/outdoor8.png",
+    "price": "$2.00"
+  },
+  {
+    "id": 9,
+    "title": "Daffodils",
+    "scientific_name": "Narcissus spp.",
+    "country_of_origin": "Europe, North Africa",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Regular watering, keeping the soil evenly moist.Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines.",
+
+    "img": "../images/outdoor9.png",
+    "price": "$1.00"
+  },
+  {
+    "id": 10,
+    "title": "Pansies",
+    "scientific_name": "Viola tricolor var. hortensis",
+    "country_of_origin": "Europe, Western Asia",
+    "light_requirement": "Full sun to partial shade",
+    "watering": "Regular watering, keeping the soil evenly moist",
+    "img": "../images/outdoor10.png",
+    "price": "$1.99"
+  }
+]

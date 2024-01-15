@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:wght@100&family=Rubik&display=swap');
+
+* {
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* GO TO TOP */
+
+.go-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: none;
+  box-shadow: 0px 1px 10px 1px rgba(39, 39, 39, 0.61);
+}
+
+/* GO TO TOP */
+
+
+
+/* INDEX.HTML */
+
+.kenburns-top {
+  -webkit-animation: kenburns-top 10s ease-out infinite alternate-reverse both;
+  animation: kenburns-top 10s ease-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+    transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+    transform-origin: 50% 16%;
+  }
+
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+    transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+}
+
+@keyframes kenburns-top {
+  0% {
+    -webkit-transform: scale(1) translateY(0);
+    transform: scale(1) translateY(0);
+    -webkit-transform-origin: 50% 16%;
+    transform-origin: 50% 16%;
+  }
+
+  100% {
+    -webkit-transform: scale(1.25) translateY(-15px);
+    transform: scale(1.25) translateY(-15px);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+}
+
+/* NAVBAR*/
+
+ul {
+  list-style-type: none;
+}
+
+.wrapHead {
+  width: 90%;
+  margin: 0 auto;
+  transition: all ease-in-out 0.5s;
+}
+
+.wrapHead.fixed-to-top {
+  width: 96%;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  transition: all ease-in-out 0.5s;
+}
+
+header:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+header.fixed-to-top {
+  background: rgb(255, 255, 255) !important;
+  color: #fff;
+  box-shadow: 0px 0px 10px 1px rgb(99, 99, 99);
+}
+
+#brand {
+  color: #ccc;
+  float: left;
+}
+
+#brand h1 {
+  letter-spacing: 10px;
+  text-shadow: 2px 2px 5px #111;
+}
+
+nav {
+  float: right;
+  margin-top: 10px;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 4px;
+}
+
+nav li a {
+  padding: 10px 0;
+  text-decoration: none;
+  color: rgb(65, 64, 64);
+  transition: all ease-in-out 0.5s;
+}
+
+nav li a:hover {
+  color: #bbb;
+}
+
+
+.navbar ul li a {
+  font-weight: 600;
+}
+
+.navbar ul li a:hover {
+  color: #198754 !important;
+}
+
+
+.logo {
+  width: 80px;
+  height: 80px;
+}
+
+/* NAVBAR*/
+
+
+/* HEADER*/
+
+.Header_carousel_caption {
+  position: absolute;
+  right: 15%;
+  bottom: 1.25rem;
+  left: 10%;
+  top: 23%;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  text-align: center
+}
+
+
+/* HEADER*/
+
+
+/* BODY ALL*/
+
+.Body_all {
+  color: black;
+}
+
+/* BODY ALL*/
+
+
+/* BODY 2*/
+
+.Body_2_Btn {
+  color: #111;
+}
+
+.Body_2_Btn:hover {
+  color: #198754;
+}
+
+/* BODY 2*/
+
+
+/* BODY 4*/
+
+.Body_4_Btn {
+  color: #111;
+  text-decoration: none;
+}
+
+.Body_4_Btn:hover {
+  color: #198754;
+}
+
+/* BODY 4*/
+
+
+/* BODY 5*/
+
+.Body_5_Form {
+  display: block;
+  width: 100%;
+  min-height: calc(1.5em + .75rem + 2px);
+  padding: .575rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  border-radius: 52px;
+
+}
+
+.Body_5_Btn {
+
+  border-top-right-radius: 28px;
+  border-bottom-right-radius: 28px;
+
+  color: #fff;
+  background-color: #198754;
+  border-color: #fff;
+}
+
+
+.Body_5_Btn:hover {
+  color: #198754;
+  background-color: #fff;
+  border-color: #198754;
+
+}
+
+/* BODY 5*/
+
+
+/* INDEX.HTML */
+
+
+/* ABOUT.HTML */
+
+.hero {
+  background-image: url("../../assets/cover.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 2;
+}
+
+.hero::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.678);
+  z-index: -1;
+}
+
+section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.team-member img {
+  width: 125px;
+  height: 125px;
+  border-radius: 100px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  width: 34px;
+  height: 34px;
+  background-color: #198754;
+  border: 2px solid #198754;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  margin-left: 5px;
+  transition: all 0.4s ease;
+}
+
+.social-icons a:hover {
+  color: #198754;
+  background-color: transparent;
+  border-color: #198754;
+}
+
+.iconbox {
+  width: 54px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #198754;
+  color: #fff;
+  font-size: 32px;
+  border-radius: 100px;
+  flex: none;
+}
+
+.card-effect {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 20px;
+  transition: all 0.35s ease;
+}
+
+.card-effect:hover {
+  box-shadow: none;
+  transform: translateY(5px);
+}
+
+@media (max-width:320px) {
+
+  .hero {
+      text-align: start;
+      padding-top: 70spx;
+  }
+
+  .hero h1 {
+      font-size: 18px;
+  }
+
+  .hero p {
+      font-size: 15px;
+  }
+}
+
+
+/* ABOUT.HTML */
+
+
+/* RECENTPOST.HTML */
+
+.RP p {
+  font-size: small;
+}
+
+.RP ul li a {
+  font-size: small;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+/* RECENTPOST.HTML */
+
+
+/* FOOTER */
+
+.footer-text {
+  color: black;
+}
+
+.footer-text:hover {
+  color: #8DAA7A;
+}
+
+.copyright {
+  margin-top: 50px;
+  padding-top: 30px;
+  color: black;
+  border-top: 1px solid darkgray;
+  text-align: center;
+}
+
+.list-unstyled li a,
+.list-unstyled {
+  color: black;
+  text-decoration: none;
+  font-size: medium;
+}
+
+.list-unstyled li a:hover,
+.list-unstyled:hover {
+  color: #8DAA7A;
+}
+
+.list-unstyled li .twiter:hover {
+  color: rgb(73, 113, 232);
+}
+
+.list-unstyled li .utube:hover {
+  color: #8DAA7A;
+}
+
+.list-unstyled li .insta:hover {
+  color: rgb(184, 31, 118);
+}
+
+.list-unstyled li .fb:hover {
+  color: rgb(73, 113, 232);
+}
+
+.list-unstyled .behance:hover {
+  color: yellow;
+}
+
+/* Footer */
